@@ -10,4 +10,5 @@ public class ProjetoMercadoFacilApplication {
 		SpringApplication.run(ProjetoMercadoFacilApplication.class, args);
 	}
 
+
 }
